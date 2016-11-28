@@ -1,0 +1,19 @@
+{
+  "name": "gome-higo-llh-test",
+  "version": "1.0.0",
+  "description": "test npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llh5966060/gome-higo-llh-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llh5966060/gome-higo-llh-test/issues"
+  },
+  "homepage": "https://github.com/llh5966060/gome-higo-llh-test#readme"
+}
